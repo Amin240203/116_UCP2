@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="damar">Cahya Damarjati</string>
+    <string name="april">Aprilia Kurniati</string>
+    <string name="next">Lanjut</string>
+    <string name="name">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="kons">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+</resources>
